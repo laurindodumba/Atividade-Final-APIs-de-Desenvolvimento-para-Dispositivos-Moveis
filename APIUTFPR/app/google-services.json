@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630020909337",
+    "project_id": "api-utfpr-68f49",
+    "storage_bucket": "api-utfpr-68f49.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630020909337:android:72b1aa70f5d51be016fd88",
+        "android_client_info": {
+          "package_name": "com.example.api_utfpr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtjghNG4izB9dolR7_-7usJcZxYDqN2pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
