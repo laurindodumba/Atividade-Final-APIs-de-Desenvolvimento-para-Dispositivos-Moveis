@@ -27,3 +27,9 @@ Recursos:
 Ambos os projetos estão disponíveis no GitHub, e você pode realizar um fork para iniciar o seu trabalho.
 
 Não é necessário publicar um novo servidor Node Express, pois seu aplicativo final deve ser capaz de se integrar com a API disponibilizada.
+
+
+##  RESULTADO
+<img width="1440" height="3120" alt="API" src="https://github.com/user-attachments/assets/a0a51836-2d67-4f82-ab4e-ac993a1351d2" />
+
+
